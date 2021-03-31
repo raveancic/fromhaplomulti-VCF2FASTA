@@ -1,7 +1,7 @@
 # From haploid multiVCF 2 FASTA
 
 This repo contains a jupyter [notebook](https://github.com/raveancic/fromhaplomulti-VCF2FASTA/blob/main/fromVCF2FASTABeastReport.ipynb) usefull to convert an haploid multi-vcf to a multi-FASTA file. Ready to be imported in other software and perform other analyses. 
-This script exploit many functions of the wonderful package [scikit-allel](https://scikit-allel.readthedocs.io/en/stable/index.html) and it has been created from the desire of having a tool able to perform this conversion for downstram phylogenetic analyses. 
+This script exploits many functions of the wonderful package [scikit-allel](https://scikit-allel.readthedocs.io/en/stable/index.html) and it has been created from the desire of having a tool able to perform this conversion for downstram phylogenetic analyses. 
 
 Especially for studies (uniparental researches) that include multi-VCF:
 
