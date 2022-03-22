@@ -11,3 +11,5 @@ Especially for studies (uniparental researches) that include multi-VCF:
 Other tools such as [bcftools](http://samtools.github.io/bcftools/bcftools.html#consensus) have the option to generate a consensus FASTA sequence starting from a VCF but they require a reference sequence and it makes the resulting FASTA much more longer than the set of informative SNPs that are required for a phylogenetic analysis. Selecting specific positions and or regions make the process cumbersome especially if all the information you want is only in the VCF you have just produced.
 
 The [script](https://github.com/raveancic/fromhaplomulti-VCF2FASTA/blob/main/fromVCF2FASTABeastReport.ipynb) is commented and the workflow is in the notebook. Any suggestions, implementations are welcome!
+
+Please cite [Colombo, G.; Traverso, L. et la., Overview of the Americas’ First Peopling from a Patrilineal Perspective: New Evidence from the Southern Continent. Genes 2022](https://doi.org/10.3390/genes13020220) if you use this script! 
